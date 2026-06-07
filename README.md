@@ -5,7 +5,7 @@
   </a>
 </p>
 <hr/>
-<h4 align="center">Ingeniero en Sistemas Inteligentes (último semestre) en la UASLP, especializado en desarrollo full-stack y soluciones con IA aplicada. Me apasiona construir plataformas escalables con buena arquitectura, UX cuidada y tecnología que resuelva problemas reales.</h4>
+<h4 align="center">Ingeniero en Sistemas Inteligentes en la Universidad Autónoma de San Luis Potosí, especializado en desarrollo full-stack y soluciones con IA aplicada. Me apasiona construir plataformas escalables con buena arquitectura, UX cuidada y tecnología que resuelva problemas reales.</h4>
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diromaac&label=Profile%20views&color=0e75b6&style=plastic" alt="diromaac" />
