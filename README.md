@@ -86,20 +86,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diromaac&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diromaac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
- 
-## 🚀 Projects
- 
-<table>
-  <tr>
-    <td>
-      <a href="https://project-concert-31d7d72x1-diego-maldonado-s-projects.vercel.app/api/prin.php" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIROMAAC&repo=Project-ConcertHub&theme=dark" alt="ConcertHub" />
-      </a>
-      <br/>
-      <a href="https://project-concert-31d7d72x1-diego-maldonado-s-projects.vercel.app/api/prin.php">🌐 Live Demo</a> •
-      <a href="https://github.com/DIROMAAC/Project-ConcertHub">📂 Repo</a>
-    </td>
-  </tr>
-</table>
----
