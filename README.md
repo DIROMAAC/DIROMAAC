@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Diego Maldonado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Diego Maldonado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,7 +8,7 @@
 
 <hr/>
 
-<h4 align="center">Ingeniero en Sistemas Inteligentes en la Universidad Autónoma de San Luis Potosí, especializado en desarrollo full-stack y soluciones con IA aplicada. Me apasiona construir plataformas escalables con buena arquitectura, UX cuidada y tecnología que resuelva problemas reales.</h4>
+<h4 align="center">Intelligent Systems Engineer graduated from UASLP, specialized in full-stack development and applied AI solutions. Passionate about building scalable platforms with solid architecture, thoughtful UX, and technology that solves real problems.</h4>
 
 <br>
 
@@ -20,12 +20,12 @@
 
 ## 💫 About Me
 
-- 🎓 **Estudiando:** Ingeniería en Sistemas Inteligentes en la UASLP — egreso Junio 2026
-- 💼 **Trabajando en:** Prácticas profesionales en CANACINTRA SLP (Depto. de Sistemas)
-- 🚀 **Construyendo:** Plataforma de movilidad académica full-stack con React + Node.js + PostgreSQL
-- 🤖 **Explorando:** NLP, Transformers (DistilBERT) y modelos de clasificación de texto
-- 🌐 **Abierto a:** Colaboraciones en proyectos frontend, backend o de IA aplicada
-- 📫 **Contacto:** rolandomaldonado207@gmail.com
+- 🎓 **Graduated:** B.E. in Intelligent Systems Engineering — UASLP
+- 💼 **Working at:** CANACINTRA SLP — Systems Department
+- 🚀 **Building:** Full-stack academic mobility platform with React + Node.js + PostgreSQL
+- 🤖 **Exploring:** NLP, Transformers (DistilBERT) and text classification models
+- 🌐 **Open to:** Frontend, backend or applied AI collaborations
+- 📫 **Contact:** rolandomaldonado207@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/diromaac](https://linkedin.com/in/diromaac)
 
 ---
@@ -46,14 +46,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Bases de datos**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-**Lenguajes**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,18 +64,19 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**IA / Data**
+**AI / Data**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Herramientas**
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -83,3 +86,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diromaac&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diromaac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=diromaac&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=diromaac&icon=2&color=4)](https://visitcount.itsvg.in)
