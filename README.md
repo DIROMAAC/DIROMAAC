@@ -25,7 +25,7 @@
 - 🚀 **Building:** Full-stack academic mobility platform with React + Node.js + PostgreSQL
 - 🤖 **Exploring:** NLP, Transformers (DistilBERT) and text classification models
 - 🌐 **Open to:** Frontend, backend or applied AI collaborations
-- 📫 **Contact:** rolandomaldonado207@gmail.com
+- 📫 **Contact:** diromaac@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/diromaac](https://linkedin.com/in/diromaac)
 
 ---
