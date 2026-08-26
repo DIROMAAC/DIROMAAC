@@ -26,6 +26,7 @@
 - 🤖 **Exploring:** NLP, Transformers (DistilBERT) and text classification models
 - 🌐 **Open to:** Frontend, backend or applied AI collaborations
 - 📫 **Contact:** diromaac@gmail.com
+- 🔗 **Portafolio:** www.diromaac.dev
 - 🔗 **LinkedIn:** [linkedin.com/in/diromaac](https://linkedin.com/in/diromaac)
 
 ---
